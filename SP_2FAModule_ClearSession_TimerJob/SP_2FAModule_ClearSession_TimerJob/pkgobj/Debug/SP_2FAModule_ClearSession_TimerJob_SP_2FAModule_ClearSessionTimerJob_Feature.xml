@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ActivateOnDefault="FALSE" AlwaysForceInstall="TRUE" Id="f351ab86-269d-45b0-bd23-5ba14869035b" ReceiverAssembly="SP_2FAModule_ClearSession_TimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd626634bb40bf48" ReceiverClass="SP_2FAModule_ClearSession_TimerJob.Features.SP_2FAModule_ClearSessionTimerJob.SP_2FAModule_ClearSessionTimerJobEventReceiver" Scope="WebApplication" Title="SP_2FAModule_ClearSession_TimerJob"></Feature>

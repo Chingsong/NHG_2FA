@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2f61fd0e-2f03-4559-af81-95c4d0b35c70" solutionId="2f61fd0e-2f03-4559-af81-95c4d0b35c70" resetWebServer="false" sharePointProductVersion="19.0" name="SP_2FAModule_Form" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="03248a00-a1ca-47cf-aa68-c62fe41d17a2" />
+  </projectItems>
+</package>

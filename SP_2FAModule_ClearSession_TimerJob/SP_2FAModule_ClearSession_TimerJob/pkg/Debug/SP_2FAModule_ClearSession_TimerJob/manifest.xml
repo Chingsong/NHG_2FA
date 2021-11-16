@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a0828f7c-34bd-47e8-9882-5b8d91230378" SharePointProductVersion="19.0">
+  <Assemblies>
+    <Assembly Location="SP_2FAModule_ClearSession_TimerJob.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SP_2FAModule_ClearSession_TimerJob_SP_2FAModule_ClearSessionTimerJob\Feature.xml" />
+  </FeatureManifests>
+</Solution>

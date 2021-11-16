@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f9da2395-d8db-41a8-9ea8-4c968a970cf4" SharePointProductVersion="19.0">
+  <Assemblies>
+    <Assembly Location="SP_2FAModule.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

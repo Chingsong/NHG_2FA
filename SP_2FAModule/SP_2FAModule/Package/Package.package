@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f9da2395-d8db-41a8-9ea8-4c968a970cf4" 
+        solutionId="f9da2395-d8db-41a8-9ea8-4c968a970cf4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SP_2FAModule"
+        sharePointProductVersion="19.0">
+</package>

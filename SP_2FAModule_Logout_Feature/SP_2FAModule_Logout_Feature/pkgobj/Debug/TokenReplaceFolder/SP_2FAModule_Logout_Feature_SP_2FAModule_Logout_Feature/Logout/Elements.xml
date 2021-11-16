@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<CustomAction
+	  Id="Logout"
+	  GroupId="SiteActions"
+	  Location="Microsoft.SharePoint.StandardMenu"
+	  Sequence="0"
+	  Title="Log out"
+	  RequireSiteAdministrator="FALSE"
+	  Description="Close session connection">
+		<UrlAction Url="~site/_layouts/15/closeconnection.aspx?loginasanotheruser=true"/>
+	</CustomAction>
+</Elements>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="06c61c45-b486-4770-b751-a3d7cdfc2be9" solutionId="06c61c45-b486-4770-b751-a3d7cdfc2be9" resetWebServer="false" sharePointProductVersion="19.0" name="SP_2FAModule_Logout_Feature" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7765daab-2d09-4337-acdf-94e3547f615a" />
+  </features>
+</package>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SP_2FAModule_Logout_Feature" ActivateOnDefault="FALSE" AlwaysForceInstall="TRUE" Id="5d6f1edf-922c-4bba-ad8b-91ca45d44590" Scope="WebApplication">
+  <ElementManifests>
+    <ElementManifest Location="Logout\Elements.xml" />
+  </ElementManifests>
+</Feature>

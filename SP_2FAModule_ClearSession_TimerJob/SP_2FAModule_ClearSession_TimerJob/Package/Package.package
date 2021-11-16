@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a0828f7c-34bd-47e8-9882-5b8d91230378" solutionId="a0828f7c-34bd-47e8-9882-5b8d91230378" resetWebServer="false" sharePointProductVersion="19.0" name="SP_2FAModule_ClearSession_TimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="36b08a22-2a00-4e11-be27-1525dc7c6a72" />
+  </features>
+</package>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="06c61c45-b486-4770-b751-a3d7cdfc2be9" SharePointProductVersion="19.0">
+  <Assemblies>
+    <Assembly Location="SP_2FAModule_Logout_Feature.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SP_2FAModule_Logout_Feature_SP_2FAModule_Logout_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
